@@ -12,7 +12,10 @@
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+<<<<<<< HEAD
     "react-hot-toast": "^2.4.1",
+=======
+>>>>>>> fef67950b827b4dda5adc41dfec0fedc9281ebbb
     "react-router": "^7.0.1"
   },
   "devDependencies": {
